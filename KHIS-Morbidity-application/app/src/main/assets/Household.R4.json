@@ -1,0 +1,45 @@
+{
+  "item": [
+    {
+      "type": "string",
+      "linkId": "1888325486712",
+      "text": "Household name",
+      "required": true,
+      "repeats": false,
+      "readOnly": false
+    },
+    {
+      "type": "integer",
+      "linkId": "5097723056517",
+      "text": "Household Id",
+      "required": true
+    },
+    {
+      "type": "string",
+      "linkId": "1610833177723",
+      "text": "Household Identifier",
+      "required": true
+    },
+    {
+      "type": "string",
+      "linkId": "7441053589348",
+      "text": "household Type",
+      "required": true
+    },
+    {
+      "type": "string",
+      "linkId": "7788900823968",
+      "text": "Residence Id",
+      "required": true
+    },
+    {
+      "type": "string",
+      "linkId": "8265100960973",
+      "text": "household Head",
+      "required": true
+    }
+  ],
+  "resourceType": "Questionnaire",
+  "title": "Household",
+  "status": "draft"
+}
